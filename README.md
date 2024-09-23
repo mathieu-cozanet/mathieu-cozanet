@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on nothing as im learning<br>👯 I’m looking to collaborate with nice people<br>🤝 I’m looking for help to elevate my skills<br>🌱 I’m currently learning JS, PHP, and everything related to web applications<br>💬 Ask me about my back pain<br>⚡ Fun fact : I used to be webdesigner
+🔭 I’m currently working on nothing as looking for a job<br>👯 I’m looking to collaborate with nice people<br>🤝 I’m looking for help to elevate my skills<br>🌱 I’m currently learning JS, PHP, and everything related to web applications<br>💬 Ask me about my back pain<br>⚡ Fun fact : I used to be webdesigner
 
 
 ## 🌐 Socials:
